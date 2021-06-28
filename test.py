@@ -20,5 +20,5 @@ class TestClass(unittest.TestCase):
 
         return self.assertEqual(productOfTwoNumbers, 200)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     unittest.main()
